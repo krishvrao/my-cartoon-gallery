@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+   
+background-color: darkblue;
+
+}
+.logo{
+    height: 650px;
+    width: 1090px ; 
+    border-radius: 95%;
+}
+
+#w{
+    background-image: url(w.jpg)
+}
+#welcome{
+    background-image: url(background.jpg);
+}
+
+h1{
+    font-family:cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkorange;
+}
+h3{
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: bold;
+    color: fuchsia;
+}
+h2{
+    color: red;
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 35px;
+}
+#grid{
+    background-image: url(grid.jfif)
+        
+}
+.actor{
+    height: 275px;
+    width: 260px;
+    border-radius: 25%;
+}
+.container{
+    text-align: center;
+    
+}
+#myCarousel{
+    background-color: aqua;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: darkorange;
+    font-size: 25px;
+}
